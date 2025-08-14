@@ -203,4 +203,4 @@ Para suporte, abra uma issue no GitHub ou entre em contato através do email: da
 
 ---
 
-**Dashboard DRE** - Transformando dados financeiros em insights acionáveis 
+**Dashboard DRE** - Transformando dados financeiros em insights acionáveis
